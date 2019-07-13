@@ -1,0 +1,11 @@
+[Core]
+name = memegen
+module = memegen
+
+[Documentation]
+description = Generate memes using memegen
+
+[Python]
+version = 3
+
+[Errbot]
